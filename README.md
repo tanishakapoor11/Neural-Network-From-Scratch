@@ -1,0 +1,1 @@
+I made a neural network from scratch (without using any deep learning libraries) for classification of data. I have implemented 2 types of neural networks, one with a single hidden layer and the other with 2 hidden layers.
